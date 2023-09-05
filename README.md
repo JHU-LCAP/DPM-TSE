@@ -1,4 +1,4 @@
-# DIFF-TSE Demo Page
+# DPM-TSE Demo Page
 
 🎵[Demo Page](https://jhu-lcap.github.io/DIFF-TSE/)
 
