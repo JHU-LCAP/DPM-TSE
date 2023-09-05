@@ -1,10 +1,10 @@
-## Diffusion-based Singing Voice Pitch Correction
+## DPMusion-based Singing Voice Pitch Correction
 
 ### Framework
 
 ![Framework]()
 
-😊[DIFF-TSE is available!]()
+😊[DPM-TSE is available!]()
 
 ### Template-based Automatic Pitch Correction Examples
 
@@ -33,14 +33,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_c_f1_0.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/c_f1_0_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_c_f1_0.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/c_f1_0_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_f1_0_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f1_0_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -67,14 +67,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_c_f3_4.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/c_f3_4_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_c_f3_4.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/c_f3_4_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_f3_4_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f3_4_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -100,14 +100,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_c_f4_4.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/c_f4_4_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_c_f4_4.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/c_f4_4_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_f4_4_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f4_4_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -135,14 +135,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_c_m2_16.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/c_m2_16_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_c_m2_16.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/c_m2_16_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_m2_16_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_m2_16_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -168,14 +168,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_c_m2_31.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/c_m2_31_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_c_m2_31.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/c_m2_31_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_m2_31_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_m2_31_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -203,14 +203,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_e_f2_5.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/e_f2_5_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_e_f2_5.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/e_f2_5_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_f2_5_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_f2_5_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -237,14 +237,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_e_f7_9.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/e_f7_9_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_e_f7_9.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/e_f7_9_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_f7_9_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_f7_9_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -270,14 +270,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_e_f9_3.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/e_f9_3_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_e_f9_3.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/e_f9_3_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_f9_3_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_f9_3_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -304,14 +304,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_e_m2_1.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/e_m2_1_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_e_m2_1.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/e_m2_1_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_m2_1_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_m2_1_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -339,14 +339,14 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>DIFF-TSE-WORLD</b></td>
-      <td>DIFF-TSE-LPC</td>
+        <td><b>DPM-TSE-WORLD</b></td>
+      <td>DPM-TSE-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
     <tr>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_world/dw_e_m4_1.wav" type="audio/wav" /></audio></td>
-        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/diff_lpc/e_m4_1_lpc.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_world/dw_e_m4_1.wav" type="audio/wav" /></audio></td>
+        <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/DPM_lpc/e_m4_1_lpc.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_m4_1_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_m4_1_pw.wav" type="audio/wav" /></audio></td>
       </tr>
@@ -556,7 +556,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
       <td>0.04</td>
     </tr>
       <tr>
-      <td>DIFF-TSE-WORLD</td>
+      <td>DPM-TSE-WORLD</td>
       <td>0.04</td>
       <td>0.03</td>
       <td>0.04</td>
@@ -596,7 +596,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
       <td>3.61%</td>
     </tr>
       <tr>
-      <td>DIFF-TSE-WORLD</td>
+      <td>DPM-TSE-WORLD</td>
       <td>2.57%</td>
       <td>2.41%</td>
       <td>2.88%</td>
