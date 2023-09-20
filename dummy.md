@@ -18,9 +18,8 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
 ## Model Framework
 
 <div style="text-align:center;">
-  <img src="./media/figures/model.jpeg" alt="Image Description" />
+  <img src="./media/figures/model.jpeg" alt="Image Description" width="500" height="500" />
 </div>
-
 ## Results
 
 <div style="overflow-x: auto;">
@@ -91,9 +90,5 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   <!-- Repeat the above rows for additional audio samples -->
 </table>
 </div>
-
-
-
-
 
 
