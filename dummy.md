@@ -23,6 +23,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
 
 ## Results
 
+<div style="overflow-x: auto;">
 <table>
   <tr>
     <th>Mixture</th>
@@ -89,6 +90,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   </tr>
   <!-- Repeat the above rows for additional audio samples -->
 </table>
+</div>
 
 
 
