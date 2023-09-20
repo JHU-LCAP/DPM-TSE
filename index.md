@@ -1,19 +1,27 @@
+<center>
+
 # DPM-TSE: A DIFFUSION PROBABILISTIC MODEL FOR TARGET SOUND EXTRACTION
 
-[DPM-TSE Code is available!]()
+[Repository | Article]()
+
+<!--
+Jiarui Hai, Helin Wang, Dongchao Yang, Karan Thakkar, Najim Dehak, Mounya Elhilali -->
+
+
 
 <!-- ### Abstract
 
 Common target sound extraction (TSE) approaches primarily relied on discriminative approaches in order to separate the target sound while minimizing interference from the unwanted sources, with varying success in separating the target from the background. This study introduces DPM-TSE, a first generative method based on diffusion probabilistic modeling (DPM) for target sound extraction, to achieve both cleaner target renderings as well as improved separability from unwanted sounds. The technique also tackles common background noise issues with DPM by introducing a correction method for noise schedules and sample steps. This approach is evaluated using both objective and subjective quality metrics on the FSD Kaggle 2018 dataset. The results show that DPM-TSE has a significant improvement in perceived quality in terms of target extraction and purity. -->
 
+</center>
 
-### Model Framework
+## Model Framework
 
 <div style="text-align:center;">
   <img src="./media/figures/model.jpeg" alt="Image Description" />
 </div>
 
-### Results
+## Results
 
 <table>
   <tr>
