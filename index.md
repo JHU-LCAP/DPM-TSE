@@ -22,7 +22,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
     <th style="text-align: center; vertical-align: middle;">Target Sound (GT)</th>
-    <th style="text-align: center; vertical-align: middle;">Target Sound Label</th>
+    <th style="text-align: center; vertical-align: middle;">Label</th>
     <th style="text-align: center; vertical-align: middle;">DPM-TSE (Ours)</th>
     <th style="text-align: center; vertical-align: middle;">TSENET</th>
     <th style="text-align: center; vertical-align: middle;">WaveFormer</th>
@@ -95,6 +95,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
 </table>
 
 
+
 ## Ablation Study
 
 <div style="text-align:center;">
@@ -104,7 +105,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
     <th style="text-align: center; vertical-align: middle;">Target Sound (GT)</th>
-    <th style="text-align: center; vertical-align: middle;">Target Sound Label</th>
+    <th style="text-align: center; vertical-align: middle;">Label</th>
     <th style="text-align: center; vertical-align: middle;">Default DPM</th>
     <th style="text-align: center; vertical-align: middle;">Corrected DPM</th>
   </tr>
@@ -124,7 +125,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
     <th style="text-align: center; vertical-align: middle;">Target Sound (GT)</th>
-    <th style="text-align: center; vertical-align: middle;">Target Sound Label</th>
+    <th style="text-align: center; vertical-align: middle;">Label</th>
     <th style="text-align: center; vertical-align: middle;">Default DPM</th>
     <th style="text-align: center; vertical-align: middle;">Corrected DPM</th>
   </tr>
