@@ -1,8 +1,10 @@
-# DPM-TSE: A DIFFUSION PROBABILISTIC MODEL FOR TARGET SOUND EXTRACTION
+# A DIFFUSION PROBABILISTIC MODEL FOR TARGET SOUND EXTRACTION
 
-😊[Repository](https://github.com/haidog-yaqub/DPMTSE/tree/main) | [Articial](https://github.com/haidog-yaqub/DPMTSE/tree/main)
+Jiarui Hai🚀, Helin Wang🚀, Dongchao Yang, Karan Thakkar, Najim Dehak, Mounya Elhilali
 
-Jiarui Hai, Helin Wang, Dongchao Yang, Karan Thakkar, Najim Dehak, Mounya Elhilali
+😊[Repository](https://github.com/haidog-yaqub/DPMTSE/tree/main)
+
+📄[PDF](https://github.com/haidog-yaqub/DPMTSE/tree/main)
 
 ### Abstract
 
@@ -98,14 +100,13 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
 <div style="text-align:center;">
   <img src="./media/figures/ablation_1561.png" alt="Image Description" width="650" height="450" />
 </div>
-
 <table>
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
     <th style="text-align: center; vertical-align: middle;">Target Sound (GT)</th>
     <th style="text-align: center; vertical-align: middle;">Target Sound Label</th>
     <th style="text-align: center; vertical-align: middle;">Default DPM</th>
-    <th style="text-align: center; vertical-align: middle;">Corrected Diffusion</th>
+    <th style="text-align: center; vertical-align: middle;">Corrected DPM</th>
   </tr>
   <tr>
     <td><audio controls><source src="./media/ablation/gt/mixture_test_1561.wav" type="audio/wav"></audio></td>
@@ -125,7 +126,7 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
     <th style="text-align: center; vertical-align: middle;">Target Sound (GT)</th>
     <th style="text-align: center; vertical-align: middle;">Target Sound Label</th>
     <th style="text-align: center; vertical-align: middle;">Default DPM</th>
-    <th style="text-align: center; vertical-align: middle;">Corrected Diffusion</th>
+    <th style="text-align: center; vertical-align: middle;">Corrected DPM</th>
   </tr>
   <tr>
     <td><audio controls><source src="./media/ablation/gt/mixture_test_886.wav" type="audio/wav"></audio></td>
@@ -135,3 +136,4 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
     <td><audio controls><source src="./media/ablation/v_dpm/pred_test_886.wav" type="audio/wav"></audio></td>
   </tr>
 </table>
+
