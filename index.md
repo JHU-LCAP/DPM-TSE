@@ -1,19 +1,12 @@
-<center>
-
 # DPM-TSE: A DIFFUSION PROBABILISTIC MODEL FOR TARGET SOUND EXTRACTION
 
 😊[Repository](https://github.com/haidog-yaqub/DPMTSE/tree/main) | [Articial](https://github.com/haidog-yaqub/DPMTSE/tree/main)
 
-<!--
-Jiarui Hai*, Helin Wang*, Dongchao Yang, Karan Thakkar, Najim Dehak, Mounya Elhilali -->
+Jiarui Hai, Helin Wang, Dongchao Yang, Karan Thakkar, Najim Dehak, Mounya Elhilali
 
+### Abstract
 
-
-<!-- ### Abstract
-
-Common target sound extraction (TSE) approaches primarily relied on discriminative approaches in order to separate the target sound while minimizing interference from the unwanted sources, with varying success in separating the target from the background. This study introduces DPM-TSE, a first generative method based on diffusion probabilistic modeling (DPM) for target sound extraction, to achieve both cleaner target renderings as well as improved separability from unwanted sounds. The technique also tackles common background noise issues with DPM by introducing a correction method for noise schedules and sample steps. This approach is evaluated using both objective and subjective quality metrics on the FSD Kaggle 2018 dataset. The results show that DPM-TSE has a significant improvement in perceived quality in terms of target extraction and purity. -->
-
-</center>
+Common target sound extraction (TSE) approaches primarily relied on discriminative approaches in order to separate the target sound while minimizing interference from the unwanted sources, with varying success in separating the target from the background. This study introduces DPM-TSE, a first generative method based on diffusion probabilistic modeling (DPM) for target sound extraction, to achieve both cleaner target renderings as well as improved separability from unwanted sounds. The technique also tackles common background noise issues with DPM by introducing a correction method for noise schedules and sample steps. This approach is evaluated using both objective and subjective quality metrics on the FSD Kaggle 2018 dataset. The results show that DPM-TSE has a significant improvement in perceived quality in terms of target extraction and purity.
 
 ## Model Framework
 
@@ -23,7 +16,6 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
 
 ## Examples
 
-<div style="overflow-x: auto;">
 <table>
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
@@ -99,7 +91,6 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   </tr>
   <!-- Repeat the above rows for additional audio samples -->
 </table>
-</div>
 
 
 ## Ablation Study
@@ -108,7 +99,6 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
   <img src="./media/figures/ablation_1561.png" alt="Image Description" width="650" height="450" />
 </div>
 
-<div style="overflow-x: auto;">
 <table>
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
@@ -124,15 +114,11 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
     <td><audio controls><source src="./media/ablation/n_dpm/pred_test_1561.wav" type="audio/wav"></audio></td>
     <td><audio controls><source src="./media/ablation/v_dpm/pred_test_1561.wav" type="audio/wav"></audio></td>
   </tr>
-</tbody>
 </table>
-<hr>
-
 <div style="text-align:center;">
   <img src="./media/figures/ablation_886.png" alt="Image Description" width="650" height="450" />
 </div>
 
-<div style="overflow-x: auto;">
 <table>
   <tr>
     <th style="text-align: center; vertical-align: middle;">Mixture</th>
@@ -148,6 +134,4 @@ Common target sound extraction (TSE) approaches primarily relied on discriminati
     <td><audio controls><source src="./media/ablation/n_dpm/pred_test_886.wav" type="audio/wav"></audio></td>
     <td><audio controls><source src="./media/ablation/v_dpm/pred_test_886.wav" type="audio/wav"></audio></td>
   </tr>
-</tbody>
 </table>
-<hr>
